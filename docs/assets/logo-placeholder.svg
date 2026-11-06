@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Logo placeholder">
+  <title>Logo placeholder: replace docs/assets/logo-placeholder.svg with your own logo</title>
+  <rect x="6" y="6" width="148" height="148" rx="36" fill="#f2f2f4" stroke="#9a9aa3" stroke-width="4" stroke-dasharray="14 10"/>
+  <g fill="none" stroke="#9a9aa3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="46" y="44" width="68" height="50" rx="8"/>
+    <circle cx="66" cy="62" r="7"/>
+    <path d="M50 90l20-18 14 12 10-8 16 14"/>
+  </g>
+  <text x="80" y="124" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#7a7a84">YOUR LOGO</text>
+</svg>
