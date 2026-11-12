@@ -307,3 +307,4 @@ VICIdial is open-source software by its respective authors. This project is an i
 
 <!-- Add a LICENSE file and name it here, for example MIT. -->
 No license has been chosen yet.
+https://drive.google.com/file/d/1UW8bCiKUNGJdKVDRnOejPR2T9Q5ejVrv/view?usp=sharing
